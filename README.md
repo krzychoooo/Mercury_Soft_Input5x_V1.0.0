@@ -1,10 +1,9 @@
 # Mercury_Soft_Input5x_V1.0.0
 This software is used to test the PCB module.
 The library used is:  
-`name=PCF8574 library version=2.3.7  
+*name=PCF8574 library version=2.3.7\
 author=Renzo Mischianti <renzo.mischianti@gmail.com>
-maintainer=Renzo Mischianti <renzo.mischianti@gmail.com>
-`
+maintainer=Renzo Mischianti <renzo.mischianti@gmail.com>*
 ## How to use:
 
  - Copy the link to the repository.![1](img/guide1.PNG)
