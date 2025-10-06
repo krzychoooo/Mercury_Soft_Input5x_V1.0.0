@@ -15,3 +15,7 @@ includes=PCF8574.h`
 ## How to use:
 
  - Copy the link to the repository.![1](img/guide1.PNG)
+ - Open VSC and File -> New Window
+ - Click Clone repository.![1](img/guide2.PNG)
+ 
+ 
