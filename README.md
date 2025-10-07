@@ -14,4 +14,9 @@ maintainer=Renzo Mischianti <renzo.mischianti@gmail.com>*
  - Edit the platformio.ini file to specify the correct COM port.
  - Now you can compile and upload the program.
  
+## Links fo software:   
+    - <a href="https://github.com/krzychoooo/Mercury_Soft_UOut1-10V_V100" target="_blank">Mercury_Soft_UOut1-10V_V100</a>
+    - <a href="https://github.com/krzychoooo/Mercury_Soft_RS485_V100" target="_blank">Mercury_Soft_RS485_V100</a>
+    - <a href="https://github.com/krzychoooo/Mercury_Soft_Relay_x3_V100" target="_blank">Mercury_Soft_Relay_x3_V100</a>
+    
  
