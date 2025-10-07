@@ -7,7 +7,8 @@ author=Renzo Mischianti <renzo.mischianti@gmail.com>
 maintainer=Renzo Mischianti <renzo.mischianti@gmail.com>*
 ## How to use:
 
- - Copy the link to the repository.![1](img/guide1.PNG)
+ - Click Code ![](img/Code.PNG)
+ - Copy the link to the repository.<img src= "img/guide1.PNG" alt="img/guide1.PNG" style="border: 2px solid grey;">
  - Open VSC and File -> New Window
  - Click Clone repository.![1](img/guide2.PNG)
  - Paste the link to the repository. And press Enter.
@@ -28,5 +29,4 @@ Hardware:
 3. <a href="https://github.com/krzychoooo/Mercury_PCB_Relay3x_V100" target="_blank">Mercury_PCB_Relay3x_V100</a>
 4. <a href="https://github.com/krzychoooo/Mercury_PCB_UOut1-10V_V100" target="_blank">Mercury_PCB_UOut1-10V_V100</a>
 5.<a href="https://github.com/krzychoooo/Mercury_PCB_Inputx5_V100" target="_blank">Mercury_PCB_Inputx5_V100</a>
-
 
