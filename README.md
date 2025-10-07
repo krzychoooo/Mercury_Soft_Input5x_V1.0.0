@@ -7,7 +7,7 @@ author=Renzo Mischianti <renzo.mischianti@gmail.com>
 maintainer=Renzo Mischianti <renzo.mischianti@gmail.com>*
 ## How to use:
 
- - Click Code <img src="img/Code.PNG">
+ - Click Code <picture><img src="img/Code.PNG"></picture>
  - Copy the link to the repository.<img src= "img/guide1.PNG" alt="img/guide1.PNG" style="border: 2px solid  black;">
  - Open VSC and File -> New Window
  - Click Clone repository.![1](img/guide2.PNG)
